@@ -18,6 +18,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,4 +27,5 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
