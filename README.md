@@ -6,6 +6,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 ## Math
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 ## Array
 |  |
 | ------- |
