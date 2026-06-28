@@ -33,11 +33,13 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0500-keyboard-row](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0500-keyboard-row](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 | [0005-longest-palindromic-substring](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0168-excel-sheet-column-title](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0500-keyboard-row](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 ## Brainteaser
 |  |
 | ------- |
