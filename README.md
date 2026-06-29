@@ -39,6 +39,7 @@
 | [0137-single-number-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0485-max-consecutive-ones](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0500-keyboard-row) |
+| [1732-find-the-highest-altitude](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
@@ -108,4 +109,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
