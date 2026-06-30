@@ -48,6 +48,7 @@
 | [0001-two-sum](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0500-keyboard-row](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0500-keyboard-row) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0171-excel-sheet-column-number](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0500-keyboard-row](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0500-keyboard-row) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Brainteaser
 |  |
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
