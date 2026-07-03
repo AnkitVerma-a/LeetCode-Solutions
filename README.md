@@ -15,6 +15,7 @@
 | [0168-excel-sheet-column-title](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0342-power-of-four) |
@@ -132,4 +133,12 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
