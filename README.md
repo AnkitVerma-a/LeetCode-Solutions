@@ -72,6 +72,7 @@
 | ------- |
 | [0136-single-number](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0338-counting-bits) |
@@ -145,4 +146,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0258-add-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
