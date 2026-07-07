@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -152,4 +154,8 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
