@@ -20,6 +20,7 @@
 | [0292-nim-game](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 ## Recursion
 |  |
 | ------- |
@@ -168,4 +169,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
