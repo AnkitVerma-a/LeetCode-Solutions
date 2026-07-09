@@ -50,6 +50,7 @@
 | [0260-single-number-iii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0485-max-consecutive-ones](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0500-keyboard-row) |
+| [0704-binary-search](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1732-find-the-highest-altitude](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -184,6 +185,7 @@
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0704-binary-search](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Combinatorics
 |  |
 | ------- |
