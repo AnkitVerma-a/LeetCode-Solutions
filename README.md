@@ -23,6 +23,7 @@
 | [0342-power-of-four](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0338-counting-bits](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
 | ------- |
@@ -141,10 +143,12 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1025-divisor-game) |
 ## Prefix Sum
 |  |
 | ------- |
