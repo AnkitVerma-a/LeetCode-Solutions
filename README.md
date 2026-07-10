@@ -83,6 +83,7 @@
 | [0509-fibonacci-number](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1025-divisor-game) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Greedy
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [0338-counting-bits](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -198,4 +200,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 <!---LeetCode Topics End-->
