@@ -78,6 +78,7 @@
 | [0062-unique-paths](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -141,6 +142,7 @@
 | [0005-longest-palindromic-substring](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0072-edit-distance](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0168-excel-sheet-column-title](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0242-valid-anagram) |
