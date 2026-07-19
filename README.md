@@ -112,6 +112,7 @@
 | [0055-jump-game](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | [0032-longest-valid-parentheses](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
 |  |
 | ------- |
@@ -168,6 +170,7 @@
 | [0344-reverse-string](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0500-keyboard-row) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Brainteaser
@@ -243,4 +246,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0322-coin-change) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
