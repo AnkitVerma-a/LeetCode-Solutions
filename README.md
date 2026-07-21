@@ -19,6 +19,7 @@
 | [0231-power-of-two](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0342-power-of-four) |
@@ -75,6 +76,7 @@
 | [0001-two-sum](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0389-find-the-difference](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -98,6 +100,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0264-ugly-number-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -251,4 +254,8 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
