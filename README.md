@@ -178,6 +178,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -204,6 +205,7 @@
 | [0389-find-the-difference](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Simulation
 |  |
 | ------- |
@@ -261,4 +263,8 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
