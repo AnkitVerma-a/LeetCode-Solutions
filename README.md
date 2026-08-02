@@ -138,6 +138,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0455-assign-cookies) |
@@ -172,6 +173,7 @@
 | [0032-longest-valid-parentheses](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0242-valid-anagram) |
