@@ -1,24 +1,27 @@
 class Solution {
-    public void f(int[] arr,List<Integer> ls,List<List<Integer>> ls1,boolean[] flag){
-        if(ls.size()==arr.length){
-        ls1.add(new ArrayList<>(ls));
+    public void swap(int a,int b,int[] arr){
+        int temp=arr[a];
+        arr[a]=arr[b];
+        arr[b]=temp;
+    }
+    public void f(int idx,int[] arr,List<List<Integer>> ls1){
+        if(idx==arr.length){
+            List<Integer> ls = new ArrayList<>();
+            for(int i=0;i<arr.length;i++){
+                ls.add(arr[i]);
+            }
+            ls1.add(ls);
         return;
         }
-        for(int i=0;i<arr.length;i++){
-            if(!flag[i]){
-                ls.add(arr[i]);
-                flag[i]=true;
-                f(arr,ls,ls1,flag);
-                ls.remove(ls.size()-1);
-                flag[i]=false;
-            }
+        for(int i=idx;i<arr.length;i++){
+            swap(i,idx,arr);
+            f(idx+1,arr,ls1);
+            swap(i,idx,arr);
         }
     }
     public List<List<Integer>> permute(int[] nums) {
-        List<Integer> ls = new ArrayList<>();
         List<List<Integer>> ls1= new ArrayList<>();
-        boolean[]  flag = new boolean[nums.length];
-        f(nums,ls,ls1,flag);
+        f(0,nums,ls1);
         return ls1;
     }
 }
