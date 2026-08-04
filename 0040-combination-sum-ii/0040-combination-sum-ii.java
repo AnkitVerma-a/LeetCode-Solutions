@@ -4,17 +4,12 @@ class Solution {
             ls1.add(new ArrayList<>(ls));
             return;
         }
-        if(idx==arr.length)return;
         for(int i=idx;i<arr.length;i++){
+            if(arr[i]>sum)break;
             if(i>idx && arr[i]==arr[i-1])continue;
-            if(arr[i]>sum){
-                break;
-            }
-        //take
-        ls.add(arr[i]);
-        f(i+1,ls,arr,sum-arr[i],ls1);
-        //don't take
-        ls.remove(ls.size()-1);
+            ls.add(arr[i]);
+            f(i+1,ls,arr,sum-arr[i],ls1);
+            ls.remove(ls.size()-1);
         }
     }
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
