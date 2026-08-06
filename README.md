@@ -187,6 +187,7 @@
 | [0344-reverse-string](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0500-keyboard-row) |
+| [0796-rotate-string](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -289,4 +290,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0051-n-queens) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
