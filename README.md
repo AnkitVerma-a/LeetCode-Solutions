@@ -47,6 +47,7 @@
 | [0001-two-sum](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
@@ -239,6 +241,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0046-permutations) |
@@ -266,6 +269,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 ## Breadth-First Search
@@ -289,9 +293,14 @@
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0051-n-queens) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0796-rotate-string) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
