@@ -8,6 +8,7 @@
 | [0141-linked-list-cycle](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 | [0141-linked-list-cycle](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0876-middle-of-the-linked-list](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
