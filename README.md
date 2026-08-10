@@ -58,6 +58,7 @@
 | [0055-jump-game](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
@@ -132,6 +133,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0137-single-number-ii) |
@@ -248,6 +250,7 @@
 | [0040-combination-sum-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 ## Binary Search
 |  |
