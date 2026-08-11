@@ -79,6 +79,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
