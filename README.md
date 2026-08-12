@@ -70,6 +70,7 @@
 | [0137-single-number-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0260-single-number-iii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -155,6 +156,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
