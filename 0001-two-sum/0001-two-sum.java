@@ -13,6 +13,6 @@ class Solution {
             map.put(nums[i],i);
         }
       }
-      throw new IllegalArgumentException("No matching");
+      return new int[]{-1,-1};
     }
 }
