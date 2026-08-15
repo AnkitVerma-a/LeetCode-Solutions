@@ -1,9 +1,4 @@
 class Solution {
-    public void swap(int i,int j,int[] arr){
-        int temp=arr[i];
-        arr[i]=arr[j];
-        arr[j]=temp;
-    }
     public void sortColors(int[] nums) {
         int zero=0;
         int one=0;
