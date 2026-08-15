@@ -70,6 +70,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0260-single-number-iii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -92,6 +93,7 @@
 | [0001-two-sum](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0389-find-the-difference](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0389-find-the-difference) |
@@ -229,6 +231,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0455-assign-cookies) |
@@ -248,6 +251,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 ## Backtracking
@@ -304,6 +308,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Algorithm X
 |  |
@@ -326,4 +331,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
