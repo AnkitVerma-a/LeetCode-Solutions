@@ -14,6 +14,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0168-excel-sheet-column-title](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
@@ -56,6 +57,7 @@
 | [0040-combination-sum-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0055-jump-game) |
@@ -298,6 +300,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
