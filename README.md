@@ -85,6 +85,7 @@
 | [0485-max-consecutive-ones](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0500-keyboard-row) |
+| [0560-subarray-sum-equals-k](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -108,6 +109,7 @@
 | [0389-find-the-difference](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0500-keyboard-row) |
+| [0560-subarray-sum-equals-k](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
@@ -232,6 +234,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 ## Sliding Window
