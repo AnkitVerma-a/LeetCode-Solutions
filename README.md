@@ -78,6 +78,7 @@
 | [0137-single-number-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0322-coin-change) |
@@ -104,6 +105,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0389-find-the-difference](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0389-find-the-difference) |
@@ -246,6 +248,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0455-assign-cookies) |
