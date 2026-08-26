@@ -95,6 +95,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0867-transpose-matrix](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -280,6 +281,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0867-transpose-matrix](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |
@@ -335,6 +337,7 @@
 | [0063-unique-paths-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
