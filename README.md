@@ -93,6 +93,7 @@
 | [0496-next-greater-element-i](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
@@ -281,6 +282,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0566-reshape-the-matrix](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
@@ -337,6 +339,7 @@
 | [0063-unique-paths-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0566-reshape-the-matrix](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 ## Breadth-First Search
 |  |
