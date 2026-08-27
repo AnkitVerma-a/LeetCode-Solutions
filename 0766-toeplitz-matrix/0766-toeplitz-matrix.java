@@ -1,7 +1,5 @@
 class Solution {
     public boolean isToeplitzMatrix(int[][] matrix) {
-        // m+n-i+j
-        Map<Integer,Integer> map=new HashMap<>();
         int m=matrix.length;
         int n=matrix[0].length;
         for(int i=1;i<m;i++){
