@@ -3,18 +3,9 @@ class Solution {
         if(mat.length*mat[0].length!=r*c){
             return mat;
         }
-        int row=0;
-        int col=0;
         int[][] arr=new int[r][c];
-        for(int i=0;i<mat.length;i++){
-            for(int j=0;j<mat[0].length;j++){
-                arr[row][col]=mat[i][j];
-                col++;
-                if(col==c){
-                    col=0;
-                    row++;
-                }
-            }
+        for(int i=0;i<mat.length*mat[0].length;i++){
+           arr[i/c][i%c]=mat[i/mat[0].length][i%mat[0].length];
         }
         return arr;
     }
