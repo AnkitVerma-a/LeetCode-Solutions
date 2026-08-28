@@ -3,14 +3,11 @@ class Solution {
         int i=0;
         int j=0;
         for(String str:commands){
-            if(str.equals("UP")){
-            i--;
-            }else if(str.equals("DOWN")){
-                i++;
-            }else if(str.equals("LEFT")){
-                j--;
-            }else if(str.equals("RIGHT")){
-                j++;
+            switch (str) {
+                case "UP"    -> i--;
+                case "DOWN"  -> i++;
+                case "LEFT"  -> j--;
+                case "RIGHT" -> j++;
             }
         }
         return (i*n)+j;
