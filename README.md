@@ -107,6 +107,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3033-modify-the-matrix](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3033-modify-the-matrix) |
+| [3248-snake-in-matrix](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -244,6 +245,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3248-snake-in-matrix](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Brainteaser
 |  |
@@ -288,6 +290,7 @@
 | [0566-reshape-the-matrix](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3248-snake-in-matrix](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3248-snake-in-matrix) |
 ## Number Theory
 |  |
 | ------- |
