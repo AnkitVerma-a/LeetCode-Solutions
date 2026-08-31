@@ -184,6 +184,7 @@
 | [0338-counting-bits](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0693-binary-number-with-alternating-bits](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Two Pointers
 |  |
