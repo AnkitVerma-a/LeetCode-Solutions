@@ -31,6 +31,7 @@
 | [0509-fibonacci-number](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1486-xor-operation-in-an-array](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1903-largest-odd-number-in-string](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1927-sum-game) |
@@ -189,6 +190,7 @@
 | [0342-power-of-four](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [1486-xor-operation-in-an-array](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Two Pointers
 |  |
