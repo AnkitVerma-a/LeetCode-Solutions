@@ -192,6 +192,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2595-number-of-even-and-odd-bits](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/2595-number-of-even-and-odd-bits) |
+| [3827-count-monobit-integers](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3827-count-monobit-integers) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Two Pointers
 |  |
@@ -348,6 +349,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3827-count-monobit-integers](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3827-count-monobit-integers) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Matrix
 |  |
