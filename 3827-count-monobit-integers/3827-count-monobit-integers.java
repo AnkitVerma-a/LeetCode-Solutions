@@ -3,7 +3,7 @@ class Solution {
         int value=0;
         int i=0;
         while(value<=n){
-            value+=Math.pow(2,i);
+           value += (1 << i);
             i++;
         }
         return i;
