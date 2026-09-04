@@ -1,19 +1,19 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
         int firstelement=Integer.MAX_VALUE;
-        int secondelement=Integer.MAX_VALUE;
+        int secelement=Integer.MAX_VALUE;
         int count1=0;
         int count2=0;
         for(int i=0;i<nums.length;i++){
             if(nums[i]==firstelement){
                 count1++;
-            }else if(secondelement==nums[i]){
+            }else if(secelement==nums[i]){
                 count2++;
             }else if(count1==0){
                 firstelement=nums[i];
                 count1=1;
             }else if(count2==0){
-                secondelement=nums[i];
+                secelement=nums[i];
                 count2=1;
             }else{
                 count1--;
@@ -27,7 +27,7 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             if(nums[i]==firstelement){
                 count1++;
-            }else if(nums[i]==secondelement){
+            }else if(nums[i]==secelement){
                 count2++;
             }
         }
@@ -35,7 +35,7 @@ class Solution {
             ls.add(firstelement);
         }
         if(count2>n){
-            ls.add(secondelement);
+            ls.add(secelement);
         }
         return ls;
     }
