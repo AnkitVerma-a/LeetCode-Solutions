@@ -1,14 +1,18 @@
+import java.util.Arrays;
+
 class Solution {
     public int[][] merge(int[][] intervals) {
-        Arrays.sort(intervals, Comparator.comparingInt(row -> row[0]));
-        List<int[]> ans=new ArrayList<>();
-        for(int i=0;i<intervals.length;i++){
-            if(ans.size()==0 || ans.get(ans.size()-1)[1]<intervals[i][0]){
-                ans.add(intervals[i]);
-            }else{
-                ans.get(ans.size()-1)[1]=Math.max(ans.get(ans.size()-1)[1],intervals[i][1]);
+        if (intervals.length <= 1) return intervals;
+        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
+        int idx = 0;
+        for (int i = 1; i < intervals.length; i++) {
+            if (intervals[i][0] <= intervals[idx][1]) {
+                intervals[idx][1] = Math.max(intervals[idx][1], intervals[i][1]);
+            } else {
+                idx++;
+                intervals[idx] = intervals[i];
             }
         }
-        return ans.toArray(new int[ans.size()][]);
+        return Arrays.copyOf(intervals, idx + 1);
     }
 }
