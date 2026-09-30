@@ -9,7 +9,7 @@ class Solution {
                 newRow.add(row.get(j - 1) + row.get(j));
             }
             newRow.add(1);
-            row=newRow;
+            row=newRow ;
         }
         return row;
     }
