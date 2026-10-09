@@ -10,7 +10,7 @@ class Solution {
                                 a+=1;
                         }
                 }else{
-                        count=0;
+                        count =0;
                 }
         }
         return a>=n;
