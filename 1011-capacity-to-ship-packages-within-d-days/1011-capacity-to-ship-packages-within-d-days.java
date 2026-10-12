@@ -3,10 +3,11 @@ class Solution {
         int count=1;
         int sum=0;
         for(int i=0;i<arr.length;i++){
-            sum+=arr[i];
-            if(sum>mid){
+            if(sum+arr[i]>mid){
                 count+=1;
                 sum=arr[i];
+            }else{
+                sum+=arr[i];
             }
         }
         if(count<=days){
