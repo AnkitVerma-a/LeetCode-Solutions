@@ -121,6 +121,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1539-kth-missing-positive-number](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -382,6 +383,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 ## Combinatorics
 |  |
 | ------- |
