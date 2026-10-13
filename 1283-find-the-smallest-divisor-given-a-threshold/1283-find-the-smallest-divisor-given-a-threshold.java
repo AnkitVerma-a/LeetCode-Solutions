@@ -2,7 +2,7 @@ class Solution {
     private int f(int[] nums,int mid){
         int sum=0;
         for(int i=0;i<nums.length;i++){
-            sum+=(nums[i]+mid-1)/mid;
+            sum+=(nums[i]+mid-1) /mid;
         }
         return sum;
     }
