@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
@@ -232,6 +233,7 @@
 | [0011-container-with-most-water](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0075-sort-colors) |
