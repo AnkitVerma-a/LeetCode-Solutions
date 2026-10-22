@@ -135,6 +135,7 @@
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1901-find-a-peak-element-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -405,6 +406,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -435,6 +437,7 @@
 | [0867-transpose-matrix](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1901-find-a-peak-element-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [3033-modify-the-matrix](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3033-modify-the-matrix) |
 ## Breadth-First Search
