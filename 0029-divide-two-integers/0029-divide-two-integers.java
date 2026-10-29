@@ -11,20 +11,16 @@ class Solution {
         long n = Math.abs((long) dividend);
         long d = Math.abs((long) divisor);
         long ans = 0;
-
         while (n >= d) {
             long top = d;
-            long i = 0;
-            
+            long count = 1;
             while ((top << 1) <= n) {
                 top = top << 1;
-                i++;
+                count=count<<1;
             }
-            
-            ans += (1L << i);
+            ans += count;
             n = n - top;
         }
-
         return sign ? (int) ans : (int) -ans;
     }
 }
