@@ -145,6 +145,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [3033-modify-the-matrix](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3033-modify-the-matrix) |
 | [3248-snake-in-matrix](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3248-snake-in-matrix) |
