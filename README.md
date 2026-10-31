@@ -130,6 +130,7 @@
 | [0860-lemonade-change](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -265,6 +266,7 @@
 | [0455-assign-cookies](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3884-first-matching-character-from-both-ends](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Stack
@@ -360,6 +362,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Simulation
