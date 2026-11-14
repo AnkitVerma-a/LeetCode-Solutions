@@ -149,6 +149,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2540-minimum-common-value](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [3033-modify-the-matrix](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3033-modify-the-matrix) |
 | [3248-snake-in-matrix](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -179,6 +180,7 @@
 | [0904-fruit-into-baskets](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [2540-minimum-common-value](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
@@ -270,6 +272,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [3884-first-matching-character-from-both-ends](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Stack
 |  |
@@ -431,6 +434,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2540-minimum-common-value](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 ## Combinatorics
 |  |
 | ------- |
