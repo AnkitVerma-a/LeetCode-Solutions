@@ -149,6 +149,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [3033-modify-the-matrix](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3033-modify-the-matrix) |
 | [3248-snake-in-matrix](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3248-snake-in-matrix) |
@@ -434,6 +435,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 ## Combinatorics
 |  |
@@ -490,6 +492,7 @@
 | [0169-majority-element](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [1512-number-of-good-pairs](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Algorithm X
 |  |
