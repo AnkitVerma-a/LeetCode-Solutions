@@ -1,11 +1,11 @@
 class Solution {
     public int minOperations(int[] nums, int k) {
-        int operations = 0;
+        int n = 0;
         for (int num : nums) {
             if (num < k) {
-                operations++;
+                n++;
             }
         }
-        return operations;
+        return n;
     }
 }
