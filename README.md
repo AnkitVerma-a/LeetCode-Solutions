@@ -152,6 +152,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [3033-modify-the-matrix](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3033-modify-the-matrix) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3248-snake-in-matrix](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3903-smallest-stable-index-i](https://github.com/AnkitVerma-a/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
